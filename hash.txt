@@ -1,0 +1,6 @@
+malwareCode.jar Integrity(SHA-256): a8d3f8691a2f9f0c4cfa22e35f6345ca8c37b51d916b2da8d4b660bc0359f075
+malwareCode.jar Top-and-Tail(SHA-256):bc8f1ce5d6b74361e39ea662e6792046f34ed4fe5f4af9b017f44ceb33251472
+
+
+notMal.jar Integrity(SHA-256): 1794eb4770e57b01278b42d0b348e515647745f65d402d93d37cde5658da5cb1
+notMal.jar Top-and-Tail(SHA-256): 99ba46e9c4359630620e9b2958215269f4fb218218e9a96ab5e2a86e423613d2
